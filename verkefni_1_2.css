@@ -1,0 +1,79 @@
+body{
+    background: white;
+    border-color: red;
+    border-style: solid;
+    margin: auto;
+    max-width: 800px;
+    margin-top: 20px;
+    padding: 10px 10px;
+}
+
+.klasi1{
+    text-align:left;
+    color: red;
+    font-style: arial;
+    font-weight: bold;
+}
+
+.klasi2{
+    text-align:left;
+    color: blue;
+    font-style:italic;
+    
+}
+
+.klasi2_2{
+    text-align:left;
+    color: darkblue;
+    font-style:italic;
+    font-weight:bold;
+    
+}
+
+.klasi3{
+    text-align:left;
+    color: green;
+    font-style:normal;
+    font-weight: bold;
+    
+}
+
+.klasi4{
+    text-align:left;
+    color: darkred;
+    font-style: arial;
+    font-weight: bold;
+    
+}
+
+.klasi5{
+    text-align:left;
+    color: darkgreen;
+    font-style:italic;
+    
+}
+
+a:link{
+    color:green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited{
+    color:yellowgreen;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover{
+    color:darkgreen;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active{
+    color:lightgreen;
+    background-color: transparent;
+    text-decoration: none;
+}
+
